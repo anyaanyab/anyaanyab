@@ -1,6 +1,6 @@
-- Hi💞️
-- I’m currently starting to work on a Python project for uni✨
-- Looking forward to learning Python, Javascript and SQL🌱
+- hi💞️
+- i'm currently starting to work on a Python project for uni✨
+- looking forward to learning Python, Javascript and SQL🌱
 - love ya!
 
 <!---
