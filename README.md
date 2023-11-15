@@ -1,7 +1,5 @@
 - hi💞️
-- i'm currently working on a Python project for uni!✨
-- looking forward to learning Python and Java ❤️
-- love ya!
+- currently working on a Python project for uni!✨
 
 <!---
 anyaanyab/anyaanyab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
