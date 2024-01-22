@@ -1,5 +1,5 @@
 - hi💞️
-- currently working on a Python project for uni!✨
+- currently coding files for my university projects!✨
 
 <!---
 anyaanyab/anyaanyab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
